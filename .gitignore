@@ -6,3 +6,7 @@ venv/
 .venv/
 *.log
 .DS_Store
+.venv-test/
+users.json
+alerts.json
+!**/sample_logs/*.log
